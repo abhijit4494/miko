@@ -1,0 +1,13 @@
+BlockExpression/sequence.txt
+Audio/chime.wav
+Audio/It was nice meeting you..wav
+Audio/My name is Miko.wav
+Audio/I am feeling really awesome today!.wav
+Videos/Happy_Accepted_Respected.mp4
+Videos/Happy_Interested_Curious.mp4
+Videos/Happy_Proud_Confident.mp4
+Videos/Processing_expression.mp4
+Audio/wakeup_human_6_1.wav
+Audio/wakeup_human_6_2.wav
+Videos/Happy_Content_Blissful.mp4
+Videos/Happy_Peaceful_Loving.mp4

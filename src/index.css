@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montaga&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+body {
+  margin: 0;
+  font-family: 'Poppins';
+}
+.border_{
+  padding-top: 0px;
+  border: 1px solid rgb(82, 177, 192);
+}
+.miko_text{
+  font-weight: 600;
+  font-size: 35px;
+  color: #fff;
+  background-color: #72B8B6 ;
+}
+.btss{
+  background-color: #72B8B6;
+  
+}

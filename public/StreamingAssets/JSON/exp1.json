@@ -1,0 +1,111 @@
+{
+	"tx": {
+		"type": 11,
+		"size": 0,
+		"loop": 1,
+		"seqCount": 1,
+		"seq": [
+			{
+				"data": "My name is Miko",
+				"data_dsp": "My name is Miko",
+				"length": 15,
+				"id": 0,
+				"time": -1
+			}
+		]
+	},
+	"ax": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"dx": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"mx": {
+		"type": 4,
+		"size": 87,
+		"motion_type": 4,
+		"loop": 1,
+		"kp": 0,
+		"ki": 0,
+		"kd": 0,
+		"pidcontrol": 0,
+		"seqCount": 6,
+		"seq": [
+			{
+				"linear": 0,
+				"angular": 2,
+				"time": 2,
+				"type": 4,
+				"id": 0
+			},
+			{
+				"linear": 0,
+				"angular": -3,
+				"time": 2,
+				"type": 4,
+				"id": 1
+			},
+			{
+				"linear": 0,
+				"angular": 2,
+				"time": 2,
+				"type": 4,
+				"id": 2
+			},
+			{
+				"linear": 0,
+				"angular": -2,
+				"time": 2,
+				"type": 4,
+				"id": 3
+			},
+			{
+				"linear": 0,
+				"angular": 3,
+				"time": 2,
+				"type": 4,
+				"id": 4
+			},
+			{
+				"linear": 0,
+				"angular": -2,
+				"time": 2,
+				"type": 4,
+				"id": 5
+			}
+		]
+	},
+	"ix1": {
+		"type": 3,
+		"size": 0,
+		"imagetype": 1,
+		"loop": 1,
+		"seqCount": 1,
+		"seq": [
+			{
+				"frame": "Happy_Interested_Curious.mp4",
+				"rate": 0,
+				"id": 0,
+				"loop": 1,
+				"start_frame": 0,
+				"end_frame": 0
+			}
+		]
+	},
+	"rx": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"id": 0
+}

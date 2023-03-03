@@ -1,0 +1,100 @@
+{
+	"tx": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"ax": {
+		"type": 12,
+		"size": 0,
+		"loop": 2,
+		"seqCount": 1,
+		"seq": [
+			{
+				"data": "chime.wav",
+				"length": 7,
+				"id": 0,
+				"time": -1
+			}
+		]
+	},
+	"dx": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"mx": {
+		"type": 4,
+		"size": 87,
+		"motion_type": 4,
+		"loop": 1,
+		"kp": 0,
+		"ki": 0,
+		"kd": 0,
+		"pidcontrol": 0,
+		"seqCount": 3,
+		"seq": [
+			{
+				"linear": 850,
+				"angular": 0,
+				"time": 4,
+				"type": 1,
+				"id": 0
+			},
+			{
+				"linear": -850,
+				"angular": 0,
+				"time": 4,
+				"type": 1,
+				"id": 1
+			},
+			{
+				"linear": 850,
+				"angular": 0,
+				"time": 4,
+				"type": 1,
+				"id": 2
+			},
+			{
+				"linear": -850,
+				"angular": 0,
+				"time": 4,
+				"type": 1,
+				"id": 3
+			},
+			{
+				"linear": 850,
+				"angular": 0,
+				"time": 4,
+				"type": 1,
+				"id": 4
+			},
+			{
+				"linear": -850,
+				"angular": 0,
+				"time": 4,
+				"type": 1,
+				"id": 5
+			}
+		]
+	},
+	"ix1": {
+		"type": 0,
+		"size": 0,
+		"imagetype": 0,
+		"loop": 0,
+		"seqCount": 0
+	},
+	"rx": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"id": 1
+}

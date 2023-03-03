@@ -1,0 +1,83 @@
+{
+	"tx": {
+		"type": 11,
+		"size": 0,
+		"loop": 1,
+		"seqCount": 1,
+		"seq": [
+			{
+				"data": "I am feeling really awesome today!",
+				"data_dsp": "I am feeling really awesome today!",
+				"length": 35,
+				"id": 0,
+				"time": -1
+			}
+		]
+	},
+	"ax": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"dx": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"mx": {
+		"type": 4,
+		"size": 27,
+		"motion_type": 4,
+		"loop": 1,
+		"kp": 0,
+		"ki": 0,
+		"kd": 0,
+		"pidcontrol": 0,
+		"seqCount": 2,
+		"seq": [
+			{
+				"linear": 1,
+				"angular": 0,
+				"time": 10,
+				"type": 1,
+				"id": 0
+			},
+			{
+				"linear": 0,
+				"angular": 0,
+				"time": 1,
+				"type": 1,
+				"id": 1
+			}
+		]
+	},
+	"ix1": {
+		"type": 3,
+		"size": 0,
+		"imagetype": 1,
+		"loop": 1,
+		"seqCount": 1,
+		"seq": [
+			{
+				"frame": "Happy_Proud_Confident.mp4",
+				"rate": 0,
+				"id": 0,
+				"loop": 1,
+				"start_frame": 0,
+				"end_frame": 0
+			}
+		]
+	},
+	"rx": {
+		"type": 0,
+		"size": 0,
+		"loop": 0,
+		"seqCount": 0,
+		"seq": []
+	},
+	"id": 2
+}
